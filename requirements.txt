@@ -1,0 +1,10 @@
+tensorflow
+keras
+coremltools
+matplotlib
+jupyter
+h5py
+pandas
+numpy
+scipy
+sklearn
